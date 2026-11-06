@@ -1,0 +1,101 @@
+Invoice_ID,Date,Branch,City,Customer_Type,Product_Category,Product,Quantity,Unit_Price_INR,Discount_Percent,Total_Before_Discount_INR,Discount_INR,Final_Sales_INR,Payment_Method,Customer_Rating
+Inv20250001,2025-08-22,C,Salem,Normal,Snacks,Popcorn,10,415.3,5.0,4153.0,207.65,3945.35,Cash,2.3
+Inv20250002,2025-04-15,A,Coimbatore,Member,Groceries,Cooking Oil,10,341.18,15.0,3411.8,511.77,2900.03,Cash,1.7
+Inv20250003,2025-03-22,A,Trichy,Member,Snacks,Biscuits,4,217.71,20.0,870.84,174.17,696.67,Card,1.8
+Inv20250004,2025-08-04,B,Trichy,Member,Beverages,Juice,3,293.72,0.0,881.16,0.0,881.16,Cash,3.0
+Inv20250005,2025-09-17,C,Trichy,Member,Beverages,Soft Drink,3,474.77,10.0,1424.31,142.43,1281.88,Net Banking,2.1
+Inv20250006,2025-10-07,A,Madurai,Normal,Household,Toothpaste,6,404.24,0.0,2425.44,0.0,2425.44,Net Banking,2.8
+Inv20250007,2025-05-06,C,Coimbatore,Member,Snacks,Chips,5,157.58,10.0,787.9,78.79,709.11,Cash,2.9
+Inv20250008,2025-07-21,B,Trichy,Member,Snacks,Chocolate,3,491.93,0.0,1475.79,0.0,1475.79,Cash,2.8
+Inv20250009,2025-08-28,C,Trichy,Normal,Beverages,Soft Drink,7,359.44,5.0,2516.08,125.8,2390.28,Cash,4.7
+Inv20250010,2025-02-21,A,Coimbatore,Normal,Personal Care,Soap,7,205.99,20.0,1441.93,288.39,1153.54,Upi,3.4
+Inv20250011,2025-09-07,C,Salem,Normal,Beverages,Tea,6,245.31,0.0,1471.86,0.0,1471.86,Cash,1.3
+Inv20250012,2025-12-27,A,Madurai,Normal,Groceries,Milk,2,414.35,5.0,828.7,41.44,787.26,Net Banking,4.4
+Inv20250013,2025-10-23,B,Trichy,Normal,Groceries,Rice,3,306.16,15.0,918.48,137.77,780.71,Cash,1.8
+Inv20250014,2025-10-10,B,Coimbatore,Member,Personal Care,Toothbrush,10,176.53,20.0,1765.3,353.06,1412.24,Cash,1.2
+Inv20250015,2025-06-29,C,Chennai,Member,Household,Floor Cleaner,4,220.48,5.0,881.92,44.1,837.82,Net Banking,3.2
+Inv20250016,2025-02-07,A,Coimbatore,Normal,Personal Care,Face Wash,2,131.02,0.0,262.04,0.0,262.04,Net Banking,4.2
+Inv20250017,2025-05-15,B,Chennai,Normal,Snacks,Chocolate,1,330.78,5.0,330.78,16.54,314.24,Card,2.2
+Inv20250018,2025-07-25,B,Coimbatore,Normal,Groceries,Wheat Flour,5,368.46,5.0,1842.3,92.11,1750.19,Net Banking,2.8
+Inv20250019,2025-09-22,B,Chennai,Member,Household,Popcorn,2,137.19,15.0,274.38,41.16,233.22,Card,3.7
+Inv20250020,2025-07-20,C,Madurai,Normal,Beverages,Tea,10,190.81,0.0,1908.1,0.0,1908.1,Upi,3.5
+Inv20250021,2025-07-13,B,Chennai,Member,Groceries,Cooking Oil,5,58.72,0.0,293.6,0.0,293.6,Cash,2.8
+Inv20250022,2025-08-14,C,Madurai,Member,Snacks,Chips,10,170.32,5.0,1703.2,85.16,1618.04,Cash,4.4
+Inv20250023,2025-09-09,B,Chennai,Normal,Groceries,Wheat Flour,5,20.85,5.0,104.25,5.21,99.04,Cash,1.8
+Inv20250024,2025-07-16,B,Salem,Normal,Personal Care,Body Lotion,7,406.72,0.0,2847.04,0.0,2847.04,Cash,2.2
+Inv20250025,2025-12-12,B,Coimbatore,Member,Personal Care,Toothbrush,2,356.21,10.0,712.42,71.24,641.18,Upi,1.7
+Inv20250026,2025-12-20,B,Madurai,Member,Household,Tissue,1,171.75,15.0,171.75,25.76,145.99,Net Banking,2.1
+Inv20250027,2025-06-29,A,Chennai,Member,Beverages,Tea,3,385.75,5.0,1157.25,57.86,1099.39,Upi,2.5
+Inv20250028,2025-06-14,B,Chennai,Member,Household,Toothpaste,3,211.97,5.0,635.91,31.8,604.11,Net Banking,3.3
+Inv20250029,2025-08-14,A,Chennai,Normal,Beverages,Tea,3,382.11,10.0,1146.33,114.63,1031.7,Cash,3.5
+Inv20250030,2025-02-12,C,Chennai,Member,Personal Care,Toothbrush,10,141.94,10.0,1419.4,141.94,1277.46,Card,2.8
+Inv20250031,2025-01-19,A,Madurai,Member,Personal Care,Soap,2,63.65,20.0,127.3,25.46,101.84,Net Banking,2.3
+Inv20250032,2025-10-28,B,Trichy,Member,Snacks,Popcorn,7,25.49,5.0,178.43,0.0,178.43,Card,3.3
+Inv20250033,2025-10-04,C,Salem,Member,Beverages,Water,10,359.38,0.0,3593.8,0.0,3593.8,Upi,2.4
+Inv20250034,2025-12-23,C,Trichy,Member,Household,Floor Cleaner,2,43.22,20.0,86.44,17.29,69.15,Card,3.4
+Inv20250035,2025-11-08,A,Coimbatore,Normal,Beverages,Soft Drink,2,80.37,10.0,160.74,16.07,144.67,Cash,4.7
+Inv20250036,2025-09-04,C,Coimbatore,Normal,Snacks,Biscuits,2,266.57,20.0,533.14,106.63,426.51,Upi,5.0
+Inv20250037,2025-10-18,C,Chennai,Normal,Groceries,Rice,9,326.44,5.0,2937.96,146.9,2791.06,Net Banking,1.5
+Inv20250038,2025-12-16,A,Chennai,Member,Snacks,Popcorn,1,36.84,15.0,36.84,5.53,31.31,Cash,2.5
+Inv20250039,2025-06-26,B,Coimbatore,Member,Beverages,Soft Drink,10,445.51,0.0,4455.1,0.0,4455.1,Cash,2.9
+Inv20250040,2025-09-11,A,Madurai,Member,Snacks,Popcorn,8,313.68,5.0,486.32,24.32,462.0,Cash,3.5
+Inv20250041,2025-11-30,B,Trichy,Normal,Household,Tissue,2,451.15,5.0,902.3,45.12,857.18,Cash,3.7
+Inv20250042,2025-09-28,A,Salem,Normal,Personal Care,Face Wash,1,403.6,15.0,403.6,60.54,343.06,Card,2.9
+Inv20250043,2025-01-19,B,Salem,Member,Groceries,Cooking Oil,5,161.2,20.0,806.0,161.2,644.8,Card,1.6
+Inv20250044,2025-06-15,B,Trichy,Member,Snacks,Chips,2,111.26,0.0,222.52,0.0,222.52,Cash,1.2
+Inv20250045,2025-08-12,C,Coimbatore,Normal,Snacks,Biscuits,10,245.2,0.0,2452.0,0.0,2452.0,Cash,3.8
+Inv20250046,2025-04-05,B,Madurai,Normal,Snacks,Nuts,3,206.53,5.0,619.59,30.98,588.61,Card,1.5
+Inv20250047,2025-06-02,B,Trichy,Member,Snacks,Chocolate,5,359.15,0.0,1795.75,0.0,1795.75,Cash,2.7
+Inv20250048,2025-06-06,B,Salem,Normal,Snacks,Popcorn,5,414.17,5.0,2070.85,103.54,1967.31,Cash,2.8
+Inv20250049,2025-06-22,A,Trichy,Member,Groceries,Milk,2,459.0,0.0,918.0,0.0,918.0,Cash,4.3
+Inv20250050,2025-08-30,B,Salem,Member,Beverages,Tea,8,403.7,5.0,3229.6,161.48,3068.12,Card,4.0
+Inv20250051,2025-02-20,C,Chennai,Member,Personal Care,Shampoo,5,100.89,20.0,504.45,100.89,403.56,Card,2.1
+Inv20250052,2025-03-14,B,Chennai,Member,Snacks,Chocolate,2,495.67,20.0,991.34,198.27,793.07,Card,2.8
+Inv20250053,2025-03-08,A,Coimbatore,Member,Personal Care,Soap,1,222.76,5.0,222.76,11.14,211.62,Card,3.3
+Inv20250054,2025-12-15,A,Salem,Member,Personal Care,Shampoo,5,206.82,15.0,1034.1,155.11,878.99,Card,3.7
+Inv20250055,2025-10-27,B,Trichy,Normal,Snacks,Popcorn,9,483.43,15.0,4350.87,652.63,3698.24,Card,2.6
+Inv20250056,2025-05-19,A,Chennai,Normal,Beverages,Soft Drink,9,125.88,15.0,1132.92,169.94,962.98,Cash,1.4
+Inv20250057,2025-11-05,A,Chennai,Normal,Beverages,Popcorn,1,490.2,15.0,490.2,73.53,416.67,Card,2.8
+Inv20250058,2025-06-27,C,Chennai,Member,Personal Care,Soap,8,319.14,0.0,2553.12,0.0,2553.12,Upi,4.1
+Inv20250059,2025-03-04,C,Chennai,Normal,Household,Toothpaste,5,132.98,0.0,664.9,0.0,664.9,Net Banking,4.8
+Inv20250060,2025-08-14,B,Chennai,Member,Personal Care,Toothbrush,3,106.84,15.0,320.52,48.08,272.44,Cash,4.4
+Inv20250061,2025-02-21,C,Salem,Normal,Groceries,Wheat Flour,1,452.5,5.0,452.5,22.62,429.88,Cash,3.0
+Inv20250062,2025-08-17,B,Madurai,Normal,Beverages,Water,2,346.87,0.0,693.74,0.0,693.74,Cash,3.8
+Inv20250063,2025-05-09,A,Trichy,Normal,Household,Toothpaste,2,313.68,15.0,627.36,94.1,533.26,Upi,1.2
+Inv20250064,2025-04-11,A,Trichy,Normal,Snacks,Chocolate,2,326.23,5.0,652.46,32.62,619.84,Cash,2.1
+Inv20250065,2025-07-14,C,Chennai,Normal,Snacks,Chocolate,9,355.46,5.0,3199.14,319.91,2879.23,Upi,3.8
+Inv20250066,2025-05-30,C,Chennai,Member,Groceries,Wheat Flour,7,441.22,5.0,3088.54,154.43,2934.11,Upi,1.2
+Inv20250067,2025-12-28,C,Madurai,Normal,Beverages,Water,6,231.06,5.0,1386.36,277.27,1109.09,Upi,4.5
+Inv20250068,2025-11-20,B,Coimbatore,Member,Beverages,Soft Drink,4,234.96,5.0,939.84,46.99,892.85,Net Banking,3.5
+Inv20250069,2025-12-20,B,Chennai,Member,Snacks,Biscuits,4,378.9,10.0,1515.6,151.56,1364.04,Cash,3.3
+Inv20250070,2025-10-27,C,Coimbatore,Normal,Beverages,Soft Drink,8,322.69,15.0,2581.52,387.23,2194.29,Cash,4.9
+Inv20250071,2025-02-04,B,Salem,Member,Snacks,Chocolate,1,360.57,20.0,360.57,72.11,288.46,Net Banking,1.3
+Inv20250072,2025-03-01,C,Coimbatore,Normal,Groceries,Sugar,8,460.39,15.0,3683.12,552.47,3130.65,Cash,2.1
+Inv20250073,2025-03-19,C,Salem,Member,Beverages,Water,9,183.74,10.0,1653.66,165.37,1488.29,Cash,4.1
+Inv20250074,2025-08-15,A,Chennai,Normal,Household,Tissue,8,274.25,20.0,2194.0,438.8,1755.2,Net Banking,4.6
+Inv20250075,2025-07-12,C,Chennai,Normal,Snacks,Popcorn,10,491.3,15.0,4913.0,736.95,4176.05,Upi,2.8
+Inv20250076,2025-11-28,A,Coimbatore,Member,Snacks,Chips,8,496.04,0.0,3968.32,0.0,3968.32,Cash,4.4
+Inv20250077,2025-12-18,B,Madurai,Normal,Snacks,Popcorn,6,438.55,15.0,2631.3,394.69,2236.61,Upi,1.7
+Inv20250078,2025-08-03,B,Trichy,Member,Beverages,Tea,8,495.15,0.0,3961.2,0.0,3961.2,Upi,2.8
+Inv20250079,2025-09-30,A,Madurai,Member,Household,Dish Soap,3,405.12,10.0,1215.36,121.54,1093.82,Upi,1.6
+Inv20250080,2025-01-23,C,Madurai,Normal,Snacks,Biscuits,6,256.5,5.0,1539.0,76.95,1462.05,Cash,2.8
+Inv20250081,2025-06-18,B,Trichy,Member,Beverages,Coffee,3,79.03,10.0,237.09,23.71,213.38,Net Banking,1.7
+Inv20250082,2025-07-09,A,Chennai,Member,Groceries,Wheat Flour,9,489.11,0.0,4401.99,0.0,4401.99,Cash,2.7
+Inv20250083,2025-07-16,C,Madurai,Normal,Personal Care,Shampoo,5,313.68,10.0,72.1,7.21,64.89,Net Banking,1.8
+Inv20250084,2025-11-04,B,Trichy,Member,Snacks,Nuts,6,94.89,10.0,569.34,56.93,512.41,Upi,2.8
+Inv20250085,2025-01-17,A,Chennai,Normal,Snacks,Popcorn,4,351.65,10.0,1406.6,140.66,1265.94,Net Banking,3.8
+Inv20250086,2025-04-12,A,Salem,Normal,Beverages,Water,9,241.06,0.0,2169.54,0.0,2169.54,Cash,2.2
+Inv20250087,2025-10-13,A,Chennai,Normal,Personal Care,Face Wash,1,196.33,10.0,196.33,19.63,176.7,Net Banking,2.6
+Inv20250088,2025-12-22,C,Coimbatore,Member,Beverages,Coffee,1,380.1,10.0,380.1,38.01,342.09,Upi,1.1
+Inv20250089,2025-12-09,C,Madurai,Member,Snacks,Chips,1,484.85,0.0,484.85,0.0,484.85,Net Banking,1.2
+Inv20250090,2025-01-30,B,Chennai,Member,Snacks,Chips,3,332.14,5.0,996.42,49.82,946.6,Cash,3.9
+Inv20250091,2025-04-01,C,Madurai,Member,Personal Care,Face Wash,7,16.28,0.0,113.96,0.0,113.96,Net Banking,2.3
+Inv20250092,2025-03-20,B,Coimbatore,Normal,Beverages,Tea,4,387.2,15.0,1548.8,232.32,1316.48,Upi,1.3
+Inv20250093,2025-05-03,A,Trichy,Normal,Groceries,Cooking Oil,4,48.55,10.0,194.2,19.42,174.78,Upi,4.0
+Inv20250094,2025-09-05,B,Madurai,Normal,Household,Tissue,6,267.19,20.0,1603.14,320.63,1282.51,Cash,4.2
+Inv20250095,2025-12-08,B,Madurai,Normal,Household,Toothpaste,7,244.32,20.0,1710.24,342.05,1368.19,Card,2.1
+Inv20250096,2025-07-23,A,Madurai,Member,Beverages,Juice,3,98.71,0.0,296.13,0.0,296.13,Upi,2.2
+Inv20250097,2025-03-21,C,Coimbatore,Normal,Beverages,Juice,7,323.92,0.0,2267.44,0.0,2267.44,Cash,2.3
+Inv20250098,2025-05-04,C,Trichy,Member,Groceries,Milk,6,206.59,0.0,1239.54,0.0,1239.54,Upi,4.2
+Inv20250099,2025-11-04,A,Chennai,Member,Beverages,Tea,8,313.68,20.0,957.92,191.58,766.34,Upi,2.8
+Inv20250100,2025-06-20,B,Trichy,Member,Personal Care,Soap,5,461.7,5.0,2308.5,115.42,2193.08,Cash,4.0
