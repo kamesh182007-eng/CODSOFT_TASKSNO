@@ -1,164 +1,249 @@
-# 🚀 CodSoft Data Analytics Internship
+# 🚀 CODSOFT DATA ANALYTICS INTERNSHIP
 
-### 📊 Data Analytics Internship – Project Portfolio
+### 📊 Data Analytics – Internship Project Portfolio
 
 Welcome to my **CodSoft Data Analytics Internship Repository!**
 
-This repository contains the projects and practical tasks I completed during my Data Analytics Internship at CodSoft. Through these tasks, I developed practical knowledge of Python, data cleaning, exploratory data analysis, and data visualization.
+This repository contains five practical tasks focused on Data Analytics using Python. These projects helped me develop practical skills in data cleaning, exploratory data analysis, data visualization, customer analysis, and web data extraction.
 
 ---
 
 ## 👨‍💻 About Me
 
 - **Name:** Kamesh
-- **Domain:** Data Analytics
-- **Internship:** CodSoft Data Analytics Internship
 - **Education:** B.Tech – Artificial Intelligence and Data Science
-- **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+- **Domain:** Data Analytics
+- **Organization:** CodSoft
+- **Internship:** Data Analytics Internship
+- **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, BeautifulSoup, Jupyter Notebook
 
 ---
 
 ## 🎯 Internship Objectives
 
 - Develop practical data analytics skills.
-- Understand and clean real-world datasets.
+- Work with real-world datasets.
+- Understand data cleaning and preprocessing.
 - Perform exploratory data analysis.
 - Create meaningful data visualizations.
-- Extract useful insights from data.
+- Analyze customer purchasing behavior.
+- Extract and analyze publicly available web data.
 
 ---
 
-## 📌 Tasks Completed
+# 📌 TASKS AND PROJECTS
 
-### ✅ Task 1 – Data Cleaning & Preprocessing
+## ✅ TASK 1 – DATA CLEANING & PREPROCESSING
 
-**Objective:** Clean and prepare raw datasets for further analysis.
+### Objective
+Clean raw datasets and prepare them for further analysis.
 
-**Work Performed:**
-- Imported datasets using Pandas.
+### Work Performed
+- Imported datasets using Python and Pandas.
 - Inspected dataset structure.
 - Identified missing values.
-- Detected and removed duplicate records.
+- Detected duplicate records.
 - Handled null values.
-- Corrected data types.
+- Removed duplicate records.
+- Corrected inconsistent data entries.
+- Changed incorrect data types.
 - Exported the cleaned dataset into CSV format.
 
-**Tools:** Python, Pandas, Jupyter Notebook.
+### Tools Used
+Python, Pandas, NumPy, Jupyter Notebook.
 
-**Output:** Cleaned Dataset (CSV).
+### Output
+Cleaned and Preprocessed Dataset (CSV).
 
 ---
 
-### ✅ Task 2 – Exploratory Data Analysis (EDA)
+## ✅ TASK 2 – EXPLORATORY DATA ANALYSIS (EDA)
 
-**Objective:** Explore datasets and discover useful patterns and trends.
+### Objective
+Explore datasets to identify trends, patterns, distributions, and relationships.
 
-**Work Performed:**
+### Work Performed
 - Loaded and examined datasets.
 - Calculated descriptive statistics.
 - Analyzed data distributions.
 - Identified trends and relationships.
-- Detected unusual patterns and outliers.
-- Extracted meaningful insights.
+- Detected outliers and unusual patterns.
+- Answered important questions using summary statistics.
+- Generated useful insights from the dataset.
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn.
+### Tools Used
+Python, Pandas, NumPy, Matplotlib, Seaborn.
 
-**Output:** EDA analysis and visualizations.
+### Output
+Exploratory Data Analysis Report and Graphs.
 
 ---
 
-### ✅ Task 3 – Data Visualization Dashboard
+## ✅ TASK 3 – DATA VISUALIZATION DASHBOARD
 
-**Objective:** Present data insights through meaningful visualizations.
+### Objective
+Create meaningful visualizations to present data insights clearly.
 
-**Work Performed:**
+### Work Performed
 - Created Bar Charts.
 - Created Line Charts.
 - Created Pie Charts.
 - Created Histograms.
 - Created Scatter Plots.
-- Customized chart titles, labels, and colors.
-- Presented important findings through graphs.
+- Customized chart titles and labels.
+- Added legends and color schemes.
+- Presented insights through visualizations.
 
-**Tools:** Python, Pandas, Matplotlib, Seaborn.
+### Tools Used
+Python, Pandas, Matplotlib, Seaborn.
 
-**Output:** Data Visualization Dashboard and Analysis CSV files.
+### Output
+IPL Data Visualization Dashboard and Analysis CSV Files.
 
 ---
 
-## 🛠️ Technologies Used
+## 🔄 TASK 4 – CUSTOMER DATA ANALYSIS
+
+### Objective
+Analyze customer information to understand purchasing behavior and identify valuable customer groups.
+
+### Work Performed
+- Analyzed customer information.
+- Studied customer purchasing behavior.
+- Segmented customers based on age and location.
+- Examined customer buying patterns.
+- Identified valuable customer groups.
+- Created visual reports.
+- Suggested marketing strategies based on analysis.
+
+### Tools Used
+Python, Pandas, NumPy, Matplotlib, Seaborn.
+
+### Output
+Customer Analysis Report and Visualizations.
+
+---
+
+## 🔄 TASK 5 – WEB DATA EXTRACTION & ANALYSIS
+
+### Objective
+Collect publicly available information from websites and analyze the extracted data.
+
+### Work Performed
+- Extracted information from publicly available websites.
+- Used Python libraries for web scraping.
+- Collected product details, prices, ratings, or news articles.
+- Cleaned and organized extracted information.
+- Performed exploratory data analysis.
+- Identified trends and patterns.
+- Exported collected data into CSV or Excel format.
+
+### Tools Used
+Python, BeautifulSoup, Requests, Pandas, Matplotlib, Jupyter Notebook.
+
+### Output
+Extracted Dataset, Cleaned CSV File and Analysis Report.
+
+---
+
+# 🛠️ TECHNOLOGIES & TOOLS
 
 | Technology | Purpose |
 |---|---|
 | Python | Programming |
 | Pandas | Data manipulation |
-| NumPy | Numerical operations |
+| NumPy | Numerical calculations |
 | Matplotlib | Data visualization |
 | Seaborn | Statistical visualization |
-| Jupyter Notebook | Development environment |
+| BeautifulSoup | Web data extraction |
+| Requests | Website requests |
+| Jupyter Notebook | Project development |
 | GitHub | Project hosting |
 
 ---
 
-## 📂 Repository Structure
+# 📂 REPOSITORY STRUCTURE
 
 ```text
 CODSOFT_TASKS/
 │
 ├── Task_1_Data_Cleaning/
 │   ├── Data_Cleaning.ipynb
-│   └── cleaned_supermarket_sales_2025.csv
+│   └── cleaned_dataset.csv
 │
 ├── Task_2_EDA/
-│   └── EDA.ipynb
+│   ├── Exploratory_Data_Analysis.ipynb
+│   └── EDA_Report.pdf
 │
 ├── Task_3_Data_Visualization/
 │   ├── IPL_Data_Visualization.ipynb
 │   ├── IPL_Team_Runs_Analysis.csv
 │   └── IPL_Match_Analysis.csv
 │
+├── Task_4_Customer_Data_Analysis/
+│   ├── Customer_Data_Analysis.ipynb
+│   └── Customer_Analysis.csv
+│
+├── Task_5_Web_Data_Extraction/
+│   ├── Web_Data_Extraction.ipynb
+│   ├── extracted_data.csv
+│   └── cleaned_data.csv
+│
 └── README.md
 ```
 
 ---
 
-## 📈 Skills Gained
+# 📈 SKILLS GAINED
 
-- Data Cleaning
-- Data Preprocessing
+- Python Programming
+- Data Cleaning and Preprocessing
 - Exploratory Data Analysis
 - Data Visualization
-- Python Programming
+- Statistical Analysis
+- Customer Segmentation
+- Web Scraping
 - Data Interpretation
 - Problem Solving
+- Data Handling using Pandas
 
 ---
 
-## 🎓 Internship Status
+# 🎓 INTERNSHIP DETAILS
 
-**Completed Tasks:** 3 / 3
-
-**Domain:** Data Analytics
-
-**Organization:** CodSoft
-
----
-
-## 🙏 Acknowledgement
-
-I sincerely thank **CodSoft** for providing this internship opportunity and helping me improve my practical knowledge and technical skills in Data Analytics.
-
-This internship helped me understand how Python can be used to analyze real-world datasets and communicate insights effectively.
+| Details | Information |
+|---|---|
+| Organization | CodSoft |
+| Internship Domain | Data Analytics |
+| Total Tasks | 5 |
+| Programming Language | Python |
+| Development Environment | Jupyter Notebook |
+| Repository | GitHub |
 
 ---
 
-## 🔗 Connect With Me
+# 🙏 ACKNOWLEDGEMENT
 
-- **GitHub:** [My GitHub Profile](https://github.com/kamesh182007-eng)
-- **LinkedIn:** [My LinkedIn Profile](ADD_YOUR_LINKEDIN_URL)
+I sincerely thank **CodSoft** for providing me with this valuable internship opportunity.
+
+Through these practical projects, I gained hands-on experience in Python programming, data analysis, data visualization, and working with real-world datasets.
+
+This internship helped me improve my technical knowledge, analytical thinking, and problem-solving skills.
+
+I look forward to applying these skills in future Data Analytics and Data Science projects.
 
 ---
 
-⭐ Thank you for visiting my repository!
+# 🔗 CONNECT WITH ME
 
-**#CodSoft #DataAnalytics #Python #Internship #DataScience #DataVisualization**
+- **GitHub:** https://github.com/kamesh182007-eng
+- **LinkedIn:** www.linkedin.com/in/kamesh-s-6392b637b**
+
+
+---
+
+⭐ Thank you for visiting my GitHub repository!
+
+### #CodSoft #DataAnalytics #Python #DataScience #Internship #MachineLearning #DataVisualization #GitHub
+
+
